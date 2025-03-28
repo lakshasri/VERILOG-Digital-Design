@@ -13,7 +13,7 @@ this repository contains verilog implementations of basic digital circuits, incl
 
 ## Setup & Simulation
 ### Requirements
-- Verilog Simulator: [Icarus Verilog (iverilog)](http://iverilog.icarus.com/) 
+- Verilog Simulator: Icarus Verilog (iverilog)
 - GTKWave for waveform analysis
 
 ### Running a Simulation
